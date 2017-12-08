@@ -1,6 +1,6 @@
 
  def speak_to_grandma(word)
-#   uppercase = word.upcase
+  uppercase = word.upcase
 #   if word == "I LOVE YOU GRANDMA!"
 #     "I LOVE YOU TOO PUMPKIN"
 #   elsif word == uppercase
